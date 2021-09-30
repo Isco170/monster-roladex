@@ -2,7 +2,7 @@
   "name": "monster-roladex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Isco170.github.io/monsters-roladex",
+  "homepage": "https://Isco170.github.io/monster-roladex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
